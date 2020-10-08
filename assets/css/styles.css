@@ -1,0 +1,22 @@
+body {
+  font-family: "Oswald", sans-serif;
+}
+.navbar {
+  background-color: #0862fc;
+}
+.item.menu {
+  color: #ffffff;
+}
+.hero-section {
+  text-align: center;
+  background-image: url("../img/hero1.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #ffffff;
+  /*text-shadow: 0.125em 0.25em 0.125em #707070;*/
+  padding: 6.25rem 3.125rem;
+}
+.summary {
+  padding-left: 230px;
+  padding-right: 230px;
+}
