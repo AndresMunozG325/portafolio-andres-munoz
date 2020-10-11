@@ -2,7 +2,7 @@ body {
   font-family: "Oswald", sans-serif;
 }
 .navbar {
-  background-color: #0862fc;
+  background-color: #f58f15;
 }
 .item.menu {
   color: #ffffff;
@@ -17,6 +17,9 @@ header {
 .other {
   font-weight: 200;
   margin-top: 150px;
+}
+.w-25 {
+  width: 10% !important;
 }
 
 .summary {
@@ -33,7 +36,11 @@ header {
   font-weight: 600;
 }
 .my-works {
-  background-color: #0862fc;
+  background-color: #f58f15;
+}
+.my-works p {
+  font-weight: 200;
+  font-size: 16pt;
 }
 .the-latest-works {
   color: #ffffff;
@@ -47,7 +54,7 @@ header {
   padding-bottom: 50px;
 }
 .footer-end {
-  background-color: #0862fc;
+  background-color: #f58f15;
 }
 .margin-right-aw {
   margin-right: 15px;
