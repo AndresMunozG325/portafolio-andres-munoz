@@ -9,14 +9,17 @@ body {
 }
 
 header {
-  background-image: url("../img/bg-hero.jpg");
+  background-image: url("../img/yo3.jpeg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: top;
 }
 .other {
   font-weight: 200;
-  margin-top: 150px;
+  margin-top: 400px;
+}
+.font {
+  font-weight: 200;
 }
 .w-25 {
   width: 10% !important;
@@ -62,6 +65,18 @@ header {
 .icon-section {
   color: white;
 }
+.fa-github:before {
+  color: #ffffff;
+}
+.fa-linkedin:before {
+  color: #ffffff;
+}
+.fa-twitter-square:before {
+  color: #ffffff;
+}
+.fa-facebook-square:before {
+  color: #ffffff;
+}
 
 @media only screen and (max-width: 600px) {
   .h1-border {
@@ -71,5 +86,8 @@ header {
   }
   .w-25 {
     width: 40% !important;
+  }
+  .fa-github:before {
+    color: #ffffff;
   }
 }
